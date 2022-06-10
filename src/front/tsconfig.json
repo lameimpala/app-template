@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "outDir": "../../dist/front",
+    "noImplicitAny": true,
+    "target": "es6",
+    "jsx": "react-jsx",
+    "allowJs": true,
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "skipLibCheck": true
+  }
+}
